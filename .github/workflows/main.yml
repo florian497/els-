@@ -28,5 +28,3 @@ jobs:
       with:
         name: CyberRunner-APK
         path: app/build/outputs/apk/debug/app-debug.apk
-Új üzenet
-Írás nekik: Flórián Simon
